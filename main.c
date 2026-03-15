@@ -11,7 +11,6 @@ struct Game{
 };
 
 typedef struct{
-
 	int x;
 	int y;
 } Point;
@@ -22,7 +21,6 @@ struct Stack{
 };
 
 void print_table(struct Game *g){
-
 	printf("\n");
 	for (int y = 0; y < 25; y++){
 		for (int x = 0; x < 25; x++){
@@ -80,7 +78,6 @@ int pop(struct Stack *s){
 }
 
 int main(int argc, char *argv[]){
-
 	if (argc != 2){
 		printf("Usage: %s <file>\n", argv[0]);
 		return -1;

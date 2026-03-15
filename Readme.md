@@ -3,7 +3,8 @@
 Un visualizzatore e risolutore di labirinti da riga di comando scritto in C puro. 
 Il programma e' basato su una struttura dati a **Stack** per esplorare i percorsi, e applica il **Backtracking** per scartare in tempo reale i vicoli ciechi.
 
-![Demo](theseus_demo.mp4)
+<video src="theseus_demo.mp4" controls="controls" width="100%">
+</video>
 
 ## Compilazione ed Esecuzione
 

@@ -3,7 +3,7 @@
 Un visualizzatore e risolutore di labirinti da riga di comando scritto in C puro. 
 Il programma e' basato su una struttura dati a **Stack** per esplorare i percorsi, e applica il **Backtracking** per scartare in tempo reale i vicoli ciechi.
 
-![Demo di Theseus in azione](demo.gif)
+<img src="demo.gif" width="600" />
 
 ## Compilazione ed Esecuzione
 
